@@ -11,7 +11,7 @@ def mainmenu():
     <body>
     <center><h1>Hello World! from AWS CodeDeploy.</h1><br/>
     <h2>Piper CI/CD Lab11-1</h2>
-    <h2>外道</h2>
+    <h2></h2>
     </body>
     </html>"""
 
